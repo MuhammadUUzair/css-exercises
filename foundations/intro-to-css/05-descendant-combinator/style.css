@@ -1,1 +1,7 @@
 /* Add CSS Styling */
+.container .text{
+    background-color: yellow;
+    justify-content: center;
+    display: flex;
+    color: red;
+}
